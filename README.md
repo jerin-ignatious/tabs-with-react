@@ -1,3 +1,2 @@
-#### IN ACTION
-
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+### Tabs with React
+Categorize infomration and display them in tabs with this simple react webpage
